@@ -1,0 +1,4 @@
+certifi==2020.12.5
+numpy==1.19.5
+opencv-python==3.4.13.47
+tqdm==4.23.4
