@@ -78,20 +78,20 @@ olarak ise, artan sediment birikimi neticesinde mevcut sedimentin
 ortamdan kaldırılması için gereken uygulamalar ve maliyetlerin artması
 olarak karşımıza çıkmaktadır \[4\].
 
-> Orman yangını, doğal ya da insani sebeplerden ortaya çıkan yangınların
-> ormanları kısmen veya tamamen yakmasıdır. Yıldırım düşmesi yanardağ
-> patlaması ve yüksek sıcaklık gibi doğal sebeplerle çıkan yangınlar ve
-> sigara, tarımsal ürünler nedenli çıkan insan kaynaklı orman yangınları
-> vardır. Ormanların yanması ekolojik olarak birçok zarara sebep olur.
-> İklim değişikliği ve kuraklık başlıca sonuçlardır. \[5\]
->
-> Gelişen teknoloji ile evrişimli sinir ağları az kaynak kullanarak daha
-> hızlı çalışabilmektedir. Nesne algılama bilgisayar görüsü ve görüntü
-> işleme kullanılarak belirli bir sınıfın anlamlı nesnelerinin video
-> veya fotoğraf üstünde tespit edilmesidir. Nesne tanımlama genel olarak
-> yüz ve aktivite tanımlama gibi alanlarda kullanılır. Yolo, R-CNN ve
-> SSD sinir ağı yaklaşımları olarak örnek verilebilir. Haar ve HOG
-> makine öğrenmesi örnekleridir.
+Orman yangını, doğal ya da insani sebeplerden ortaya çıkan yangınların
+ormanları kısmen veya tamamen yakmasıdır. Yıldırım düşmesi yanardağ
+patlaması ve yüksek sıcaklık gibi doğal sebeplerle çıkan yangınlar ve
+sigara, tarımsal ürünler nedenli çıkan insan kaynaklı orman yangınları
+vardır. Ormanların yanması ekolojik olarak birçok zarara sebep olur.
+İklim değişikliği ve kuraklık başlıca sonuçlardır. \[5\]
+
+Gelişen teknoloji ile evrişimli sinir ağları az kaynak kullanarak daha
+hızlı çalışabilmektedir. Nesne algılama bilgisayar görüsü ve görüntü
+işleme kullanılarak belirli bir sınıfın anlamlı nesnelerinin video
+veya fotoğraf üstünde tespit edilmesidir. Nesne tanımlama genel olarak
+yüz ve aktivite tanımlama gibi alanlarda kullanılır. Yolo, R-CNN ve
+SSD sinir ağı yaklaşımları olarak örnek verilebilir. Haar ve HOG
+makine öğrenmesi örnekleridir.
 
 ![](media/image-1.png)
 
@@ -269,4 +269,4 @@ Kaynakça
 - Upload your dataset to google drive for easy use on google colab
 - Use Yolov3-Train notebook to train your yolov3 weights with dataset. (stop the colab whenever you want, it will save weights to your drive under yolov3 file it created)
 - After training you can use detectiontest.py for testing on live webcam feed and imageTest.py for testing on image.
-- Human detection will be implemented.
+- Human detection will be implemented in the future.
